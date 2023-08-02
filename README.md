@@ -1,4 +1,5 @@
-# ThemePark
+Development
+
 The JUNGLE KINGDOM theme park is one of the most popular theme parks in the Southern hemisphere and is located right here in South Africa. JUNGLE KINGDOM is home to one of the biggest rollercoasters in the world. Families from all over the globe would come to visit this thriller theme park to experience the thrill you wouldn’t experience 	in any other theme park. Some customers would book the entire theme park for events such as birthday parties, celebratory events, etc. 
 
 Although this theme park is one of world’s biggest, the existing system can no longer keep up with the business’ requirements. The following crucial business processes are not automated:
